@@ -37,11 +37,17 @@ Nmapix is a python based tool used for Scanning network and found weakness of ta
 
 ---
 
-## 📦 Prerequisites & Installation
+## 📦 Installation & Setup
 
-Ensure you have Python 3 and the native `nmap` binary installed on your system.
+Run the following commands in your terminal (Linux / Termux) to clone and install the tool:
 
-1. **Clone or download the repository:**
-   ```bash
-   git clone [https://github.com/abhihack12/nmapix.git](https://github.com/abhihack12/nmapix.git)
-   cd nmapix
+```bash
+# Clone the repository
+git clone [https://github.com/HackerPantomX/Nmapix.git](https://github.com/HackerPantomX/Nmapix.git)
+
+# Navigate into the project directory
+cd Nmapix
+
+# Install required Python dependencies
+pip install python-nmap colorama google-genai
+
