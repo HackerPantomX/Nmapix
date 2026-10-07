@@ -49,5 +49,5 @@ git clone [https://github.com/HackerPantomX/Nmapix.git](https://github.com/Hacke
 cd Nmapix
 
 # Install required Python dependencies
-pip install python-nmap colorama google-genai
+pip install -r requirements.txt
 
