@@ -43,7 +43,7 @@ Run the following commands in your terminal (Linux / Termux) to clone and instal
 
 ```bash
 # Clone the repository
-git clone [https://github.com/HackerPantomX/Nmapix.git](https://github.com/HackerPantomX/Nmapix.git)
+git clone https://github.com/HackerPantomX/Nmapix.git
 
 # Navigate into the project directory
 cd Nmapix
