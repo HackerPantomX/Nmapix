@@ -396,7 +396,7 @@ try:
                                 
                                 try:
                                     response = client.models.generate_content(
-                                        model='gemini-2.5-flash',
+                                        model='gemini-3.8-flash',
                                         contents=user_prompt,
                                     )
                                     print(Fore.GREEN + "\n[Gemini AI Answer]:\n" + Fore.WHITE + response.text + "\n")
